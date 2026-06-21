@@ -1,0 +1,12 @@
+[theme]
+# The primary accent color for interactive elements (Purple)
+primaryColor = "#8A2BE2" 
+
+# The main background of the app (Navy Blue)
+backgroundColor = "#0A1128" 
+
+# The background of the sidebar (Slightly lighter Navy to create depth)
+secondaryBackgroundColor = "#121E3B" 
+
+# Crisp white text for readability against the dark backgrounds
+textColor = "#FFFFFF"
