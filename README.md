@@ -22,14 +22,6 @@ This project is a machine learning solution designed to predict credit default r
 * AI Explainability: Integrated SHAP Waterfall and Summary plots to eliminate the "black box" effect, allowing loan officers to generate compliant Adverse Action Notices.
 * Interactive UI: Deployed a front-end Streamlit dashboard allowing risk teams to input specific applicant metrics and receive live probability scores and risk breakdowns.
 
-## How to Run Locally
 
-1. Clone the repository:
-   git clone https://github.com/yourusername/credit-risk-engine.git
 
-2. Install the required dependencies:
-   pip install -r requirements.txt
-
-3. Run the Streamlit application:
-   streamlit run app.py
    
